@@ -11,7 +11,6 @@
 01.10 - Salesforce Development Architecture, Apex, Lightning and Metadata
 01.11 - Salesforce Environments, Sandboxes and Enterprise Deployment Models
 01.12 - Salesforce Enterprise Reference Architecture and End-to-End Data Flows
-
 02 - Salesforce Security Architecture and Technical Security Controls
 02.01 - Salesforce Security Architecture and Shared Responsibility Model
 02.02 - Salesforce Identity and Access Management Architecture
@@ -25,7 +24,6 @@
 02.10 - Salesforce Network Security, Session Management and Login Restrictions
 02.11 - Salesforce Application Security, Apex Security and Lightning Component Protection
 02.12 - Salesforce Security Configuration Standards and Technical Hardening
-
 03 - Salesforce Cybersecurity Risk Assessment and Risk Management
 03.01 - Salesforce Cybersecurity Risk Management Foundations and Methodologies
 03.02 - Salesforce Business Context, Asset Identification and Criticality Assessment
@@ -39,7 +37,6 @@
 03.10 - Salesforce Inherent Risk, Likelihood, Impact and Residual Risk Evaluation
 03.11 - Salesforce Risk Treatment, Mitigation Plans and Risk Acceptance
 03.12 - Salesforce Enterprise Risk Registers, Risk Reporting and Continuous Monitoring
-
 04 - Salesforce Integration Security and Enterprise Application Connectivity
 04.01 - Salesforce Enterprise Integration Architecture and Security Principles
 04.02 - Salesforce API Architecture, REST, SOAP and Bulk API Security
@@ -53,7 +50,6 @@
 04.10 - Salesforce External AI, LLM and AI Agent API Integration Security
 04.11 - Salesforce Integration Data Protection, Encryption and Secure Data Exchange
 04.12 - Salesforce API Governance, Integration Monitoring and End-to-End Security Assessment
-
 05 - Salesforce Third-Party Risk Management and Vendor Security Assessment
 05.01 - Salesforce Third-Party Risk Management Foundations and Governance
 05.02 - Salesforce Vendor Identification, Classification and Risk Tiering
@@ -67,7 +63,6 @@
 05.10 - Salesforce Third-Party Security Controls, Risk Mitigation and Remediation
 05.11 - Salesforce Continuous Vendor Monitoring, Reassessment and Performance Evaluation
 05.12 - Salesforce Third-Party Risk Reporting, Exit Strategies and Supply Chain Resilience
-
 06 - Salesforce Vulnerability Management, Penetration Testing and Security Testing
 06.01 - Salesforce Security Testing Methodologies and Assessment Frameworks
 06.02 - Salesforce Vulnerability Management Lifecycle and Governance
@@ -81,7 +76,6 @@
 06.10 - Salesforce Vulnerability Prioritization, CVSS and Risk-Based Remediation
 06.11 - Salesforce Security Findings, Remediation Validation and Retesting
 06.12 - Salesforce Security Testing Reports, Evidence and Management Assurance
-
 07 - Salesforce AI Security, Agentforce and AI Governance
 07.01 - Salesforce AI Architecture, Einstein and Agentforce Foundations
 07.02 - Salesforce Agentforce Architecture, Agent Lifecycle and Orchestration
@@ -95,7 +89,6 @@
 07.10 - Salesforce AI Risk Management, Governance and Human Oversight
 07.11 - Salesforce AI Regulatory Compliance, ISO/IEC 42001 and NIST AI RMF
 07.12 - Salesforce AI Monitoring, Incident Management and Continuous AI Assurance
-
 08 - Salesforce Security Operations, SIEM, XDR, SOAR and Incident Response
 08.01 - Salesforce Security Operations and SOC Integration Architecture
 08.02 - Salesforce Security Logging, Audit Events and Monitoring Capabilities
@@ -109,7 +102,6 @@
 08.10 - Salesforce AI Agent and LLM Security Incident Investigation
 08.11 - Salesforce Digital Forensics, Evidence Collection and Incident Reporting
 08.12 - Salesforce Incident Recovery, Lessons Learned and Security Improvement
-
 09 - Salesforce Change Management, Configuration Management and DevSecOps
 09.01 - Salesforce Change Management Governance and Security Principles
 09.02 - Salesforce Configuration Management and Security Baseline Standards
@@ -123,7 +115,6 @@
 09.10 - Salesforce AI Agent, Prompt and Model Configuration Change Management
 09.11 - Salesforce Change Approval, Testing, Rollback and Emergency Change Procedures
 09.12 - Salesforce Configuration Audits, Change Evidence and Continuous Compliance
-
 10 - Salesforce Business Continuity, Disaster Recovery and Operational Resilience
 10.01 - Salesforce Business Continuity Management Foundations and Governance
 10.02 - Salesforce Business Impact Analysis and Critical Business Process Identification
@@ -137,7 +128,6 @@
 10.10 - Salesforce AI, External LLM and Third-Party Service Continuity
 10.11 - Salesforce Disaster Recovery Testing, Business Continuity Exercises and Validation
 10.12 - Salesforce Operational Resilience, Crisis Management and Continuous Improvement
-
 11 - Salesforce Security Governance, Policies, Standards and Regulatory Compliance
 11.01 - Salesforce Security Governance Framework and Operating Model
 11.02 - Salesforce Cybersecurity Policies, Procedures and Governance Documentation
@@ -151,7 +141,6 @@
 11.10 - Salesforce Data Governance, Retention, Classification and Information Lifecycle Management
 11.11 - Salesforce Security Audit, Compliance Assessment and Evidence Management
 11.12 - Salesforce Governance Oversight, Policy Review and Regulatory Accountability
-
 12 - Salesforce Cybersecurity Assurance, Control Effectiveness and Continuous Improvement
 12.01 - Salesforce Cybersecurity Assurance Framework and Assessment Methodology
 12.02 - Salesforce Security Control Design and Implementation Assessment
